@@ -2,8 +2,8 @@
 
 /**
  * Plugin Name: Synchronized Alt Text
- * Plugin URI: https://www.example.com
- * Description: Synchronizes the alt text from the media library with the images in Gutenberg editor, without overwriting manually added alt texts.
+ * Plugin URI: https://github.com/nikolailehbrink/synchronized-alt-text
+ * Description: Synchronizes the alt text from the media library with the images in Gutenberg editor
  * Version: 1.0
  * Author: Nikolai Lehbrink
  * Author URI: nikolailehbr.ink
